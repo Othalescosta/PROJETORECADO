@@ -1,0 +1,110 @@
+body{
+    background-color: rgb(153, 152, 153);
+}
+.container{
+    display: flex;
+    width: 10cm;
+    height: 8cm;
+    background-color: rgb(65, 61, 68);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+
+}
+
+#recado{
+ width: 10cm;
+resize: none;
+ height: 8cm;
+
+}
+
+
+.form{
+    display: flex;
+    width: 10cm;
+    height: 8cm;
+    background-color: rgb(65, 61, 68);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    
+}
+
+.usuario{
+    display: flex;
+    width: 10cm;
+    height: 8cm;
+    background-color: rgb(65, 61, 68);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+}
+.portal{
+
+
+        display: flex;
+    width: 10cm;
+    height: 8cm;
+    background-color: rgb(65, 61, 68);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+}
+
+.perfil{
+
+    
+    display: flex;
+    width: 10cm;
+    height: 8cm;
+    background-color: rgb(65, 61, 68);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+}
+.editarusuario{
+
+   
+    display: flex;
+    width: 10cm;
+    height: 8cm;
+    background-color: rgb(65, 61, 68);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px; 
+}
+.excluir{
+    display: flex;
+    width: 10cm;
+    height: 8cm;
+    background-color: rgb(65, 61, 68);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px; 
+}
+.recado{
+    display: flex;
+    width: 10cm;
+    height: 8cm;
+    background-color: rgb(65, 61, 68);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px; 
+}
